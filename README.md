@@ -1,4 +1,4 @@
-# 🛍️ Ecommerce Platform
+# 🛍️ Shophub - Modern Ecommerce Platform
 
 A modern, full-stack ecommerce platform built with Next.js 14, Prisma, and Tailwind CSS.
 
@@ -64,7 +64,7 @@ pnpm install
 
 3. **Set up environment variables:**
 ```bash
-cp .env.example .env.local
+cp env.example .env.local
 ```
 
 4. **Initialize database:**
@@ -104,7 +104,7 @@ pnpm dev
 ## 📁 Project Structure
 
 ```
-ecommerce-platform/
+shophub-ecommerce/
 ├── app/                    # Next.js 14 app directory
 │   ├── api/               # API routes
 │   ├── admin/             # Admin dashboard
@@ -184,3 +184,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
+**🛍️ Shophub - Your Modern Ecommerce Solution**
